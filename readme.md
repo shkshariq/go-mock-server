@@ -1,5 +1,5 @@
 
-# Go Mock API
+# Go Mock API Server
 
 This project is a simple and flexible mock API server built using Go. It allows users to create and update dynamic API endpoints with custom responses, and serves those endpoints with the stored responses.
 
@@ -13,8 +13,8 @@ This project is a simple and flexible mock API server built using Go. It allows 
 1. Download the project source code:
 
 ```bash
-$ git clone https://github.com/yourusername/yourrepository.git
-$ cd yourrepository
+$ git clone https://github.com/shkshariq/go-mock-server.git
+$ cd go-mock-server
 ```
 
 2. Install the required Go packages:
