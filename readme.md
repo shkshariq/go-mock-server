@@ -43,7 +43,7 @@ This will start the mock API server on port 8080.
 
 ### Create or update a mock API
 
-To create or update a mock API, send a POST request to `/create_update_api?api_path=/api/mock-test` with the following JSON payload:
+To create or update a mock API, send a POST request to `http://localhost:8080/create_update_api?api_path=/api/mock-test` with the following JSON payload:
 ```json
 {
 	"status_code": 200,
